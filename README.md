@@ -8,12 +8,11 @@ Sublime Text 3 (min: 3.0 BUILD 3143)
 
 ## Install
 
-Use package control
-
-https://packagecontrol.io/packages/OLED%20Color%20Scheme
+Use [Package Control][]
 
 ## Screenshot
 
 ![screenshot]
 
-[screenshot]: https://github.com/pavelrevak/OLED-color-scheme/raw/master/screenshot.png "Screenshot"
+[Package Control]: https://packagecontrol.io/packages/OLED%20Color%20Scheme
+[screenshot]: screenshot.png "Screenshot"
