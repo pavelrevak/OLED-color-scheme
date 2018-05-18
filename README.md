@@ -6,7 +6,7 @@ High contrast color scheme with black background for OLED screens (good also for
 
 Sublime Text 3 (min: 3.0 BUILD 3143)
 
-# install
+## Install
 
 Use package control
 
